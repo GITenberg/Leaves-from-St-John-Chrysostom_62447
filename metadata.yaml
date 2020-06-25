@@ -1,0 +1,45 @@
+_repo: Leaves-from-St-John-Chrysostom_62447
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Allies, Mary H. (Mary Helen)
+    alias: Allies, Mary Helen Agnes
+    birthdate: 1852
+    deathdate: 1927
+    gutenberg_agent_id: '45609'
+    url: http://www.gutenberg.org/2009/agents/45609
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Allies
+creator:
+  author:
+    agent_name: John Chrysostom, Saint
+    alias: Chrysostom, John, Saint
+    deathdate: 407
+    gutenberg_agent_id: '51945'
+    url: http://www.gutenberg.org/2009/agents/51945
+    wikipedia: https://en.wikipedia.org/wiki/John_Chrysostom
+  editor:
+    agent_name: Allies, T. W. (Thomas William)
+    aliases:
+    - Allies, Thomas William
+    - Allies, Thomas W.
+    birthdate: 1813
+    deathdate: 1903
+    gutenberg_agent_id: '33803'
+    url: http://www.gutenberg.org/2009/agents/33803
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_William_Allies
+description: ''
+gutenberg_issued: '2020-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62447'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'John Chrysostom, Saint, -407'
+- !lcsh 'Christian literature, Early'
+- GITenberg
+title: Leaves from St. John Chrysostom
+url: http://www.gutenberg.org/ebooks/62447
